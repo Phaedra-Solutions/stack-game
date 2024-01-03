@@ -1,0 +1,2 @@
+# stack-game
+Angular library
